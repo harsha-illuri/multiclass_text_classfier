@@ -1,5 +1,5 @@
 # multiclass_text_classfier
-This project is aimed to classify non mutex human errors on a sentence level of Nuclear power plant incident reports. Besides indentifying errors with a pin point accuracy, This could also help with analysing the relationships between the errors.
+This project is aimed to classify non mutex human errors from Nuclear power plant incident reports on a sentece level. Besides indentifying errors with a pin point accuracy, This could also help with analysing the relationships between the errors.
 
 
 ## General Guidelines:
